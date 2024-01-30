@@ -44,10 +44,13 @@ The project also answered important questions such as :-
 </p>
 
 6.  The adult age group (30-49 yrs) made the most contributions.
+  <p align="center">
+  <img width="400" height="200" src="">
+</p>
 
-7. Amazon, Flipkart and Myntra channels were the top contributors.
+8. Amazon, Flipkart and Myntra channels were the top contributors.
 
-8. The 'Set' clothing category received the highest number of orders, comprising 40% of the total.
+9. The 'Set' clothing category received the highest number of orders, comprising 40% of the total.
 
 Conclusion
 -
