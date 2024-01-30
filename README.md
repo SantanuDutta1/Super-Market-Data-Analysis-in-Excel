@@ -16,6 +16,8 @@ This project includes steps as follows :
 - Explotory data analysis (EDA)
 - Data visualization 
 
+
+
 The project also answered important questions such as :-
  -
 1. Compare the Sales and orders using chart?
