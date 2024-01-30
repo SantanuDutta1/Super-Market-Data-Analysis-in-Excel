@@ -31,7 +31,7 @@ The project also answered important questions such as :-
 
 2. Women are more likely to purchase (69%) than men.
    <p align="center">
-  <img width="600" height="300" src="">
+  <img width="600" height="300" src="Men vs Women.png">
 </p>
 
 4. In my dataset, the different order statuses are primarily categorized as:
