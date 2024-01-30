@@ -50,10 +50,13 @@ The project also answered important questions such as :-
 
 6. Amazon, Flipkart and Myntra channels were the top contributors.
  <p align="center">
-  <img width="400" height="200" src="">
+  <img width="400" height="200" src="Graphs/channel.png">
 </p>
 
 7. The 'Set' clothing category received the highest number of orders, comprising 40% of the total.
+<p align="center">
+  <img width="400" height="200" src="">
+</p>
 
 Conclusion
 -
