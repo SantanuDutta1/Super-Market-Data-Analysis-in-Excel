@@ -34,23 +34,26 @@ The project also answered important questions such as :-
   <img width="400" height="200" src="Graphs/Men vs Women.png">
 </p>
 
-4. In my dataset, the different order statuses are primarily categorized as:
+3. In my dataset, the different order statuses are primarily categorized as:
 - 92.25% of orders are marked as "Delivered".
 - The remaining percentage consists of orders that are "Cancelled", "Refunded," or "Returned".
 
-5. Top 10 states :
+4. Top 10 states :
  <p align="center">
   <img width="400" height="200" src="Graphs/Top state.png">
 </p>
 
-6.  The adult age group (30-49 yrs) made the most contributions.
-  <p align="center">
+5.  The adult age group (30-49 yrs) made the most contributions.
+ <p align="center">
+  <img width="400" height="200" src="Graphs/Age group.png">
+</p>
+
+6. Amazon, Flipkart and Myntra channels were the top contributors.
+ <p align="center">
   <img width="400" height="200" src="">
 </p>
 
-8. Amazon, Flipkart and Myntra channels were the top contributors.
-
-9. The 'Set' clothing category received the highest number of orders, comprising 40% of the total.
+7. The 'Set' clothing category received the highest number of orders, comprising 40% of the total.
 
 Conclusion
 -
