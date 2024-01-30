@@ -40,7 +40,7 @@ The project also answered important questions such as :-
 
 5. Top 10 states :
  <p align="center">
-  <img width="400" height="200" src="">
+  <img width="400" height="200" src="Graphs/Top state.png">
 </p>
 
 6.  The adult age group (30-49 yrs) made the most contributions.
