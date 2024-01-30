@@ -38,13 +38,16 @@ The project also answered important questions such as :-
 - 92.25% of orders are marked as "Delivered".
 - The remaining percentage consists of orders that are "Cancelled", "Refunded," or "Returned".
 
-4. Top 10 states :
+5. Top 10 states :
+ <p align="center">
+  <img width="400" height="200" src="">
+</p>
 
-5.  The adult age group (30-49 yrs) made the most contributions.
+6.  The adult age group (30-49 yrs) made the most contributions.
 
-6. Amazon, Flipkart and Myntra channels were the top contributors.
+7. Amazon, Flipkart and Myntra channels were the top contributors.
 
-7. The 'Set' clothing category received the highest number of orders, comprising 40% of the total.
+8. The 'Set' clothing category received the highest number of orders, comprising 40% of the total.
 
 Conclusion
 -
